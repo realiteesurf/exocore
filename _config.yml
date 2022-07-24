@@ -1,8 +1,8 @@
 title: Exocore
 
 source: .
-url: https://exocore.remilia.org
-baseurl: ''
+url: surfy.wiki
+baseurl: 'surfy.wiki'
 destination: _site
 repository: remiliacorp/exocore
 
